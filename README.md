@@ -10,5 +10,3 @@ Anchors ensure that objects appear to stay at the same position and orientation 
 - Unity 2020.3.40f1
 - AR Foundation 4.1.13
 - ARCore XR Plugin 4.1.13
-
-<video src="./files/video.mp4"></video>
